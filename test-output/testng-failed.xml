@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite guice-stage="DEVELOPMENT" name="Failed suite [Default suite]">
+  <test name="Default test(failed)">
+    <classes>
+      <class name="com.QAexercise.IndexPageTest">
+        <methods>
+          <include name="delete_Selected_TODOItem_From_ItemList"/>
+          <include name="closeDriver"/>
+          <include name="addTODO_Item_To_TODOList"/>
+          <include name="initialize"/>
+          <include name="addTODO_Item_To_TODOList_WithDueDate"/>
+        </methods>
+      </class> <!-- com.QAexercise.IndexPageTest -->
+    </classes>
+  </test> <!-- Default test(failed) -->
+</suite> <!-- Failed suite [Default suite] -->
