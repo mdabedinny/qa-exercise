@@ -2,28 +2,28 @@
 <testng-results skipped="0" failed="3" ignored="0" total="5" passed="2">
   <reporter-output>
   </reporter-output>
-  <suite name="Default suite" duration-ms="31478" started-at="2018-12-03T22:14:29Z" finished-at="2018-12-03T22:15:01Z">
+  <suite name="Default suite" duration-ms="31905" started-at="2018-12-04T01:39:20Z" finished-at="2018-12-04T01:39:51Z">
     <groups>
     </groups>
-    <test name="Default test" duration-ms="31478" started-at="2018-12-03T22:14:29Z" finished-at="2018-12-03T22:15:01Z">
+    <test name="Default test" duration-ms="31905" started-at="2018-12-04T01:39:20Z" finished-at="2018-12-04T01:39:51Z">
       <class name="com.QAexercise.IndexPageTest">
-        <test-method status="PASS" signature="initialize()[pri:0, instance:com.QAexercise.IndexPageTest@675d3402]" name="initialize" is-config="true" duration-ms="4195" started-at="2018-12-03T17:14:29Z" finished-at="2018-12-03T17:14:34Z">
+        <test-method status="PASS" signature="initialize()[pri:0, instance:com.QAexercise.IndexPageTest@675d3402]" name="initialize" is-config="true" duration-ms="4206" started-at="2018-12-03T20:39:20Z" finished-at="2018-12-03T20:39:24Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- initialize -->
-        <test-method status="PASS" signature="addCategoryName_To_CategoryList()[pri:0, instance:com.QAexercise.IndexPageTest@675d3402]" name="addCategoryName_To_CategoryList" duration-ms="835" started-at="2018-12-03T17:14:34Z" finished-at="2018-12-03T17:14:34Z">
+        <test-method status="PASS" signature="addCategoryName_To_CategoryList()[pri:0, instance:com.QAexercise.IndexPageTest@675d3402]" name="addCategoryName_To_CategoryList" duration-ms="1010" started-at="2018-12-03T20:39:24Z" finished-at="2018-12-03T20:39:25Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- addCategoryName_To_CategoryList -->
-        <test-method status="PASS" signature="closeDriver()[pri:0, instance:com.QAexercise.IndexPageTest@675d3402]" name="closeDriver" is-config="true" duration-ms="149" started-at="2018-12-03T17:14:34Z" finished-at="2018-12-03T17:14:35Z">
+        <test-method status="PASS" signature="closeDriver()[pri:0, instance:com.QAexercise.IndexPageTest@675d3402]" name="closeDriver" is-config="true" duration-ms="148" started-at="2018-12-03T20:39:25Z" finished-at="2018-12-03T20:39:25Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- closeDriver -->
-        <test-method status="PASS" signature="initialize()[pri:0, instance:com.QAexercise.IndexPageTest@675d3402]" name="initialize" is-config="true" duration-ms="3332" started-at="2018-12-03T17:14:35Z" finished-at="2018-12-03T17:14:38Z">
+        <test-method status="PASS" signature="initialize()[pri:0, instance:com.QAexercise.IndexPageTest@675d3402]" name="initialize" is-config="true" duration-ms="3405" started-at="2018-12-03T20:39:25Z" finished-at="2018-12-03T20:39:28Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- initialize -->
-        <test-method status="FAIL" signature="addTODO_Item_To_TODOList()[pri:0, instance:com.QAexercise.IndexPageTest@675d3402]" name="addTODO_Item_To_TODOList" duration-ms="3520" started-at="2018-12-03T17:14:38Z" finished-at="2018-12-03T17:14:41Z">
+        <test-method status="FAIL" signature="addTODO_Item_To_TODOList()[pri:0, instance:com.QAexercise.IndexPageTest@675d3402]" name="addTODO_Item_To_TODOList" duration-ms="3526" started-at="2018-12-03T20:39:28Z" finished-at="2018-12-03T20:39:32Z">
           <exception class="org.openqa.selenium.NoSuchElementException">
             <message>
               <![CDATA[Cannot locate element with text: College
@@ -72,15 +72,15 @@ Driver info: driver.version: unknown
           <reporter-output>
           </reporter-output>
         </test-method> <!-- addTODO_Item_To_TODOList -->
-        <test-method status="PASS" signature="closeDriver()[pri:0, instance:com.QAexercise.IndexPageTest@675d3402]" name="closeDriver" is-config="true" duration-ms="135" started-at="2018-12-03T17:14:41Z" finished-at="2018-12-03T17:14:42Z">
+        <test-method status="PASS" signature="closeDriver()[pri:0, instance:com.QAexercise.IndexPageTest@675d3402]" name="closeDriver" is-config="true" duration-ms="208" started-at="2018-12-03T20:39:32Z" finished-at="2018-12-03T20:39:32Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- closeDriver -->
-        <test-method status="PASS" signature="initialize()[pri:0, instance:com.QAexercise.IndexPageTest@675d3402]" name="initialize" is-config="true" duration-ms="3414" started-at="2018-12-03T17:14:42Z" finished-at="2018-12-03T17:14:45Z">
+        <test-method status="PASS" signature="initialize()[pri:0, instance:com.QAexercise.IndexPageTest@675d3402]" name="initialize" is-config="true" duration-ms="3428" started-at="2018-12-03T20:39:32Z" finished-at="2018-12-03T20:39:36Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- initialize -->
-        <test-method status="FAIL" signature="addTODO_Item_To_TODOList_WithDueDate()[pri:0, instance:com.QAexercise.IndexPageTest@675d3402]" name="addTODO_Item_To_TODOList_WithDueDate" duration-ms="3502" started-at="2018-12-03T17:14:45Z" finished-at="2018-12-03T17:14:48Z">
+        <test-method status="FAIL" signature="addTODO_Item_To_TODOList_WithDueDate()[pri:0, instance:com.QAexercise.IndexPageTest@675d3402]" name="addTODO_Item_To_TODOList_WithDueDate" duration-ms="3483" started-at="2018-12-03T20:39:36Z" finished-at="2018-12-03T20:39:39Z">
           <exception class="org.openqa.selenium.NoSuchElementException">
             <message>
               <![CDATA[Cannot locate element with text: College
@@ -129,15 +129,15 @@ Driver info: driver.version: unknown
           <reporter-output>
           </reporter-output>
         </test-method> <!-- addTODO_Item_To_TODOList_WithDueDate -->
-        <test-method status="PASS" signature="closeDriver()[pri:0, instance:com.QAexercise.IndexPageTest@675d3402]" name="closeDriver" is-config="true" duration-ms="165" started-at="2018-12-03T17:14:48Z" finished-at="2018-12-03T17:14:49Z">
+        <test-method status="PASS" signature="closeDriver()[pri:0, instance:com.QAexercise.IndexPageTest@675d3402]" name="closeDriver" is-config="true" duration-ms="195" started-at="2018-12-03T20:39:39Z" finished-at="2018-12-03T20:39:39Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- closeDriver -->
-        <test-method status="PASS" signature="initialize()[pri:0, instance:com.QAexercise.IndexPageTest@675d3402]" name="initialize" is-config="true" duration-ms="3346" started-at="2018-12-03T17:14:49Z" finished-at="2018-12-03T17:14:52Z">
+        <test-method status="PASS" signature="initialize()[pri:0, instance:com.QAexercise.IndexPageTest@675d3402]" name="initialize" is-config="true" duration-ms="3399" started-at="2018-12-03T20:39:39Z" finished-at="2018-12-03T20:39:43Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- initialize -->
-        <test-method status="FAIL" signature="delete_Selected_TODOItem_From_ItemList()[pri:0, instance:com.QAexercise.IndexPageTest@675d3402]" name="delete_Selected_TODOItem_From_ItemList" duration-ms="3371" started-at="2018-12-03T17:14:52Z" finished-at="2018-12-03T17:14:55Z">
+        <test-method status="FAIL" signature="delete_Selected_TODOItem_From_ItemList()[pri:0, instance:com.QAexercise.IndexPageTest@675d3402]" name="delete_Selected_TODOItem_From_ItemList" duration-ms="3320" started-at="2018-12-03T20:39:43Z" finished-at="2018-12-03T20:39:46Z">
           <exception class="org.openqa.selenium.NoSuchElementException">
             <message>
               <![CDATA[no such element: Unable to locate element: {"method":"xpath","selector":"//*[@id="todos-content"]/form/ul/li[1]/span[1]"}
@@ -148,8 +148,8 @@ For documentation on this error, please visit: http://seleniumhq.org/exceptions/
 Build info: version: '3.6.0', revision: '6fbf3ec767', time: '2017-09-27T15:28:36.4Z'
 System info: host: 'DESKTOP-09LSVLD', ip: '192.168.1.158', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_171'
 Driver info: org.openqa.selenium.chrome.ChromeDriver
-Capabilities [{mobileEmulationEnabled=false, hasTouchScreen=false, platform=XP, acceptSslCerts=false, acceptInsecureCerts=false, webStorageEnabled=true, browserName=chrome, takesScreenshot=true, javascriptEnabled=true, platformName=XP, setWindowRect=true, unexpectedAlertBehaviour=, applicationCacheEnabled=false, rotatable=false, networkConnectionEnabled=false, chrome={chromedriverVersion=2.40.565498 (ea082db3280dd6843ebfb08a625e3eb905c4f5ab), userDataDir=C:\Users\Abedin\AppData\Local\Temp\scoped_dir5784_11400}, takesHeapSnapshot=true, pageLoadStrategy=normal, unhandledPromptBehavior=, databaseEnabled=false, handlesAlerts=true, version=70.0.3538.110, browserConnectionEnabled=false, nativeEvents=true, locationContextEnabled=true, cssSelectorsEnabled=true}]
-Session ID: 855ca3e7eca19879a29f1aa03a246796
+Capabilities [{mobileEmulationEnabled=false, hasTouchScreen=false, platform=XP, acceptSslCerts=false, acceptInsecureCerts=false, webStorageEnabled=true, browserName=chrome, takesScreenshot=true, javascriptEnabled=true, platformName=XP, setWindowRect=true, unexpectedAlertBehaviour=, applicationCacheEnabled=false, rotatable=false, networkConnectionEnabled=false, chrome={chromedriverVersion=2.40.565498 (ea082db3280dd6843ebfb08a625e3eb905c4f5ab), userDataDir=C:\Users\Abedin\AppData\Local\Temp\scoped_dir22292_19599}, takesHeapSnapshot=true, pageLoadStrategy=normal, unhandledPromptBehavior=, databaseEnabled=false, handlesAlerts=true, version=70.0.3538.110, browserConnectionEnabled=false, nativeEvents=true, locationContextEnabled=true, cssSelectorsEnabled=true}]
+Session ID: ba153ded6878eaa4e9e71ecefc958d10
 *** Element info: {Using=xpath, value=//*[@id="todos-content"]/form/ul/li[1]/span[1]}]]>
             </message>
             <full-stacktrace>
@@ -161,8 +161,8 @@ For documentation on this error, please visit: http://seleniumhq.org/exceptions/
 Build info: version: '3.6.0', revision: '6fbf3ec767', time: '2017-09-27T15:28:36.4Z'
 System info: host: 'DESKTOP-09LSVLD', ip: '192.168.1.158', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_171'
 Driver info: org.openqa.selenium.chrome.ChromeDriver
-Capabilities [{mobileEmulationEnabled=false, hasTouchScreen=false, platform=XP, acceptSslCerts=false, acceptInsecureCerts=false, webStorageEnabled=true, browserName=chrome, takesScreenshot=true, javascriptEnabled=true, platformName=XP, setWindowRect=true, unexpectedAlertBehaviour=, applicationCacheEnabled=false, rotatable=false, networkConnectionEnabled=false, chrome={chromedriverVersion=2.40.565498 (ea082db3280dd6843ebfb08a625e3eb905c4f5ab), userDataDir=C:\Users\Abedin\AppData\Local\Temp\scoped_dir5784_11400}, takesHeapSnapshot=true, pageLoadStrategy=normal, unhandledPromptBehavior=, databaseEnabled=false, handlesAlerts=true, version=70.0.3538.110, browserConnectionEnabled=false, nativeEvents=true, locationContextEnabled=true, cssSelectorsEnabled=true}]
-Session ID: 855ca3e7eca19879a29f1aa03a246796
+Capabilities [{mobileEmulationEnabled=false, hasTouchScreen=false, platform=XP, acceptSslCerts=false, acceptInsecureCerts=false, webStorageEnabled=true, browserName=chrome, takesScreenshot=true, javascriptEnabled=true, platformName=XP, setWindowRect=true, unexpectedAlertBehaviour=, applicationCacheEnabled=false, rotatable=false, networkConnectionEnabled=false, chrome={chromedriverVersion=2.40.565498 (ea082db3280dd6843ebfb08a625e3eb905c4f5ab), userDataDir=C:\Users\Abedin\AppData\Local\Temp\scoped_dir22292_19599}, takesHeapSnapshot=true, pageLoadStrategy=normal, unhandledPromptBehavior=, databaseEnabled=false, handlesAlerts=true, version=70.0.3538.110, browserConnectionEnabled=false, nativeEvents=true, locationContextEnabled=true, cssSelectorsEnabled=true}]
+Session ID: ba153ded6878eaa4e9e71ecefc958d10
 *** Element info: {Using=xpath, value=//*[@id="todos-content"]/form/ul/li[1]/span[1]}
 	at sun.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method)
 	at sun.reflect.NativeConstructorAccessorImpl.newInstance(NativeConstructorAccessorImpl.java:62)
@@ -213,19 +213,19 @@ Session ID: 855ca3e7eca19879a29f1aa03a246796
           <reporter-output>
           </reporter-output>
         </test-method> <!-- delete_Selected_TODOItem_From_ItemList -->
-        <test-method status="PASS" signature="closeDriver()[pri:0, instance:com.QAexercise.IndexPageTest@675d3402]" name="closeDriver" is-config="true" duration-ms="167" started-at="2018-12-03T17:14:55Z" finished-at="2018-12-03T17:14:56Z">
+        <test-method status="PASS" signature="closeDriver()[pri:0, instance:com.QAexercise.IndexPageTest@675d3402]" name="closeDriver" is-config="true" duration-ms="154" started-at="2018-12-03T20:39:46Z" finished-at="2018-12-03T20:39:46Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- closeDriver -->
-        <test-method status="PASS" signature="initialize()[pri:0, instance:com.QAexercise.IndexPageTest@675d3402]" name="initialize" is-config="true" duration-ms="3376" started-at="2018-12-03T17:14:56Z" finished-at="2018-12-03T17:14:59Z">
+        <test-method status="PASS" signature="initialize()[pri:0, instance:com.QAexercise.IndexPageTest@675d3402]" name="initialize" is-config="true" duration-ms="3418" started-at="2018-12-03T20:39:46Z" finished-at="2018-12-03T20:39:50Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- initialize -->
-        <test-method status="PASS" signature="delete_selected_Category_From_CategoryList()[pri:0, instance:com.QAexercise.IndexPageTest@675d3402]" name="delete_selected_Category_From_CategoryList" duration-ms="1771" started-at="2018-12-03T17:14:59Z" finished-at="2018-12-03T17:15:01Z">
+        <test-method status="PASS" signature="delete_selected_Category_From_CategoryList()[pri:0, instance:com.QAexercise.IndexPageTest@675d3402]" name="delete_selected_Category_From_CategoryList" duration-ms="1810" started-at="2018-12-03T20:39:50Z" finished-at="2018-12-03T20:39:51Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- delete_selected_Category_From_CategoryList -->
-        <test-method status="PASS" signature="closeDriver()[pri:0, instance:com.QAexercise.IndexPageTest@675d3402]" name="closeDriver" is-config="true" duration-ms="163" started-at="2018-12-03T17:15:01Z" finished-at="2018-12-03T17:15:01Z">
+        <test-method status="PASS" signature="closeDriver()[pri:0, instance:com.QAexercise.IndexPageTest@675d3402]" name="closeDriver" is-config="true" duration-ms="143" started-at="2018-12-03T20:39:51Z" finished-at="2018-12-03T20:39:51Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- closeDriver -->
